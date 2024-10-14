@@ -17,7 +17,7 @@ Este projeto é um clone de uma página de conteúdo, seguindo as diretrizes vis
 
 ### Estrutura do Projeto
 
-O projeto é composto por HTML, CSS e possivelmente JavaScript para funções interativas. As cores e fontes foram aplicadas de forma consistente com as especificações.
+O projeto é composto por HTML, CSS. As cores e fontes foram aplicadas de forma consistente com as especificações.
 
 ### Funcionalidades
 
