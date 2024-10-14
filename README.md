@@ -34,5 +34,5 @@ Você pode acessar a versão publicada da página através do link abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/arks-lacerda/pageCloneGlobo
    ```
